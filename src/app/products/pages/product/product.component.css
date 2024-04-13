@@ -1,0 +1,9 @@
+.botones {
+  font-size: medium;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-color: black;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  margin-left: 2px;
+  margin-right: 2px;
+}
